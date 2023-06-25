@@ -1,5 +1,4 @@
 # VaccinationData project
-Collecting data from users.
 create by: Orel Aviad, Elhanan Aviad, Eliav Aviad
 ## mission
 Some countries do not keep electronic records of their citizens medical situation. We want to help them collect data from citizens in order to prioritise COVID-19 vaccination.
