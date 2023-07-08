@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # VaccinationData project
 create by: Orel Aviad, Elhanan Aviad, Eliav Aviad
 ## mission
